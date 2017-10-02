@@ -1,0 +1,1175 @@
+[
+  {
+    "id": 0,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Welcome",
+      "text": "Welcome to Survive Slashington High. To learn how to use this skill, say \"Help\".",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Welcome to Survive Slashington High. To learn how to use this skill, say \"Help\".",
+      "prompt": "When you are ready, say \"Begin\"."
+    },
+    "options": [
+      {
+        "utterances": [
+          "begin"
+        ],
+        "sceneId": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Welcome",
+      "text": "It's Slashington's Homecoming! Unfortunately, though the Slashington Slasher has been lurking. Three murders. No suspects. It's beginning to look dire. You begin your adventure as Barbra, the nerd. Other characters coming soon. Begin your adventure by saying \"Barbra\"",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "It's Slashington's Homecoming! Unfortunately, though the Slashington Slasher has been lurking. Three murders. No suspects. It's beginning to look dire. You begin your adventure as Barbra, the nerd. Other characters coming soon. Begin your adventure by saying \"Barbra\"",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 2,
+        "utterances": [
+          "Barbra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Homecoming Night",
+      "text": "What should Barbra do? Go to homecoming or stay home?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "It's homecoming night. You, Barbra Dyers, the ultimate nerd's nerd are home. Pajamas. Your cat is in pajamas as well. A horror movie playing in the background while you doing homework.  You stay home and make popcorn? Say continue for more.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 4,
+        "utterances": [
+          "Continue"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Popcorn Fiasco",
+      "text": "Fire, fire, everywhere. Not a drop to spare.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Popcorn it is! You stay home and decide to cook up some jiffy pop. As you listen to the kernels pop, you nod off into your Calculus book. BEEP! BEEP! The smoke detector is sounded. Do you try to fight your popcorn fire yourself or call the police?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 5,
+        "utterances": [
+          "Call Cops"
+        ]
+      },
+      {
+        "sceneId": 6,
+        "utterances": [
+          "Put out fire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Cops",
+      "text": "You call the cops. It takes about five minutes but they manage to put it out. The cops are confused why you are home and now sacrificed some nice kitchen linens. They ask you if you are willing to go downtown to answer a few questions. Do you go with the police or refuse and stay home?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You call the cops. It takes about five minutes but they manage to put it out. The cops are confused why you are home and now sacrificed some nice kitchen linens. They ask you if you are willing to go downtown to answer a few questions. Do you go with the police or refuse and stay home?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 7,
+        "utterances": [
+          "Go with cops"
+        ]
+      },
+      {
+        "sceneId": 8,
+        "utterances": [
+          "Stay home"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Burn!",
+      "text": "You got burned!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You put out the fire yourself. However, you receive first degree burns on your arm. You have no choice but to drive downtown to the hospital to get treated. As you drive, you realize the typical road has been blocked off and you have to take the scenic and dark wooded path. Sure enough, driving down the woods mysteriously pop all four tires. A killer on the loose. Do you call for a tow truck and wait? Or do walk to the school which is only five hundred feet away?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 11,
+        "utterances": [
+          "Walk to the School"
+        ]
+      },
+      {
+        "sceneId": 12,
+        "utterances": [
+          "Call tow truck and wait in car"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "A Long Ride",
+      "text": "Ride with the cops",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You go with the cops. You sit in the backseat as the two cops speed down the road. They try to make small talk but you seem determined to find out why you need to go with them. They tell you there has been another murder. You remain quiet. It was not you. Just then, they get radioed in. The killer is at the school. They speed down the road and soon you are sitting in the car, in your pajamas, and with a killer inside. The cops start to head inside. Do you ask to be allowed out the car or do you stay in the car?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 9,
+        "utterances": [
+          "Stay in Car"
+        ]
+      },
+      {
+        "sceneId": 10,
+        "utterances": [
+          "Demand to Be Let Out"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Loser But You Are Alive",
+      "text": "Survive",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You refuse to go with the cops and demand a reason why you'd be force to go with them. They leave instead and you watch your movie with burnt popcorn at hand. You survive! Even though you are still a loser. This was too easy.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 9,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Waiting",
+      "text": "The waiting game has some dire consequences",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "As you wait, the school begins to burst with activity. Screaming. Cries. Students running for their lives. You notice three people running. All of them hurt. Do you follow Johnny, the local \nmysterious townie? Michael, the bitchy cheerleader who hates you? Or Zara, the overly dramatic drama geek?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 13,
+        "utterances": [
+          "Zara"
+        ]
+      },
+      {
+        "sceneId": 14,
+        "utterances": [
+          "Michael"
+        ]
+      },
+      {
+        "sceneId": 15,
+        "utterances": [
+          "Johnny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Into The Bloodshed",
+      "text": "Run into school",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You demand to be let out. The cops realize they have nothing to hold you on, so they release you. You get out and look into the school. You see your friend, Alicia, the perfectionist class president on the ground with a large knife wound to her chest. You run to her and see it won't stop bleeding. She clutches you, pale, close to death. At the same time, you see the killer squaring off against Johnny, the mysterious townie. Do you stay with her and try to stop the bleeding? Or do you help Johnny try to kill the killer?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 23,
+        "utterances": [
+          "Stop the bleeding"
+        ]
+      },
+      {
+        "sceneId": 24,
+        "utterances": [
+          "Help fight the killer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "The darkest walk",
+      "text": "You walk to school.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You decide to walk to the school. It dark in the woods but you can see the lights from homecoming. As you get closer, you hear screams from inside. An armless party goer runs out flailing what they have left. You notice your best friend, Alicia, the perfectionist School President. She has a large stab mark in her chest. You run inside into the auditorium and soon find yourself surrounded by five other kids. Johnny, the townie, clutches onto a bloody knife. He claims isn't his. Alicia claims that Johnny stabbed her. Michael, the bitchy cheerleader. He says that it was Zara who killed everyone. He has always hated you though. Zara, the dramatic geek clutches onto an axe and claims Alicia did it. Chet who holds onto a bat says it was Michael because he's jealous no one is gay in the school. Who do you trust?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 29,
+        "utterances": [
+          "Chet the Jock"
+        ]
+      },
+      {
+        "sceneId": 30,
+        "utterances": [
+          "Zara the Drama Geek"
+        ]
+      },
+      {
+        "sceneId": 31,
+        "utterances": [
+          "Michael the Cheerleader"
+        ]
+      },
+      {
+        "sceneId": 32,
+        "utterances": [
+          "Alicia the School President"
+        ]
+      },
+      {
+        "sceneId": 33,
+        "utterances": [
+          "Johnny the Townie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Walking to school",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You enter a room. What would you like to do?",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 13,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Dramatic Weirdo",
+      "text": "What is wrong with Zara?",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You follow Zara. She sings happily to herself as she only has a long running slash on her face. You two run into the school's pool area. Zara demands to know why you are in pajamas or she will not walk another step. The killer emerges in the pool hall with a large bow. Do you tell her, user her a human shield, or jump in the pool?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 20,
+        "utterances": [
+          "Human Shield"
+        ]
+      },
+      {
+        "sceneId": 21,
+        "utterances": [
+          "Tell her the truth"
+        ]
+      },
+      {
+        "sceneId": 22,
+        "utterances": [
+          "Punch Her in the Face"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "The Ultimate Revenge",
+      "text": "Kill Michael",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You follow Michael. He glares at you angrily as you run beside him towards the athletic's field. He demands you go die somewhere else. He has to stop to breath. A large slash on his torso is making a noticeable effect. The killer makes his move. He grabs Michael by his throat. You go to scream but the killer hands you the knife. He demands you take revenge against Michael and everything you did. Do you kill Michael or do you threaten the killer?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 18,
+        "utterances": [
+          "Kill Michael"
+        ]
+      },
+      {
+        "sceneId": 19,
+        "utterances": [
+          "Threaten the Killer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Trust Worthy Townie?",
+      "text": "Following Johnny",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You follow Johnny. He has a large gash on his leg. You two run into the wilderness and towards your car. You stop to take a breath. He tells you about the blood bath at homecoming. He pulls out a bloody knife from his leather jacket. He claims he took the knife from the killer. Do you trust Johnny or run for it?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 16,
+        "utterances": [
+          "Trust Johnny"
+        ]
+      },
+      {
+        "sceneId": 17,
+        "utterances": [
+          "Run from Johnny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Survive",
+      "text": "Johnny kills the killer",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You trust him. It's a good thing too because from behind you the killer lurks! Johnny sees him just in time and lunges forward. He plunges the knife into the killer's face. You two survive.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 17,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Run from Johnny",
+      "text": "Death",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You run from Johnny. Too bad too. You turn just in time to see the Slashington Slasher drive a large branch into your face. Sorry, loser, you are dead.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 18,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "New Boyfriend",
+      "text": "Well you got a boyfriend",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You stab Michael in the stomach, head, arm, pretty much everywhere. The killer laughs. He takes his mask out and reveals he is Chet, the so called dumb jock. He demands you two make out and date. You guys do so. You survive and have a new boyfriend.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 19,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Dead by Association",
+      "text": "Death",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You stand up for yourself and threaten the killer. He laughs and pulls out a gun and shoots you dead. Should have killer the cheerleader.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 20,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Zara, the ultimate shield",
+      "text": "You are sick but alive",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You grab Zara and throw it in front of you. Before, she can scream at you, an arrow strikes her in the chest. She dies instantly. You use her body until she run down the hallway. You lock yourself in a closet until the morning. You live though you are sick person.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 21,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Dead Lesbians",
+      "text": "You have a girlfriend and also are dead",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell her the truth. How you didn't have a date. The popcorn. You tell her everything. She says she wanted to ask you. You two kiss. You have found your one true love and will be together forever. So close that the arrow shot from the killer hits both of you in the head. You are dead but at least you have a girlfriend.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 22,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Dead by Zara",
+      "text": "Zara murders you",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You punch Zara in the face. Bad move. She knows combat from doing West Side Story last year. She even has a switchblade in her purse. She slices you to pieces. You are dead.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 23,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "She was a lost cause now you are too",
+      "text": "You're sacrifice",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You stay to stop the bleeding. However, within five minutes, you realize she has bled to death. You look over to see Johnny dead, his face smashed in. The last thing you see is a large knife and a man grab you by the throat and slice to the bone. You die.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 24,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Time to be a hero",
+      "text": "Fight with Johnny",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You decide to help fight the killer. You run into the auditorium. Johnny seems to be loosing. Slices are all over his body as he tries to fight the killer. You notice that the killer's robe is pretty long. You also notice a large flag with a speared end. Do you try to hold onto the killer's cloak? Or do you grab the flag and try to skewer him?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 25,
+        "utterances": [
+          "Grab flag"
+        ]
+      },
+      {
+        "sceneId": 26,
+        "utterances": [
+          "Hold onto his cloak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Good try but you die",
+      "text": "The flag was too much",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You run over to the flag and rip it off it's stand. You turn and start to sprint with all your might at the killer. Unfortunately, you spent more time reading then working out and the flag misses it's target and stabs Johnny in the leg. This gives the killer time to decapitate Johnny and shoot you in the head with the gun he was hiding. Good try but you die.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 26,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "A cloak's reward",
+      "text": "You get the gun",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You hold onto the killer's cloak with all your might. This rewards you with a loud thud and revolved falling to the ground from his pocket. He grab the gun and without hesitation, you fire three shots into his chest. The killer falls to the ground. Johnny is impressed. He wants to make out. Do you make out with Johnny or do you ignore him and shoot the killer in the head?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 27,
+        "utterances": [
+          "Make Out With Johnny"
+        ]
+      },
+      {
+        "sceneId": 28,
+        "utterances": [
+          "Shoot Killer in the Head"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "The Non-Virgin Murder",
+      "text": "You got laid and also murdered!",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You drop the gun and make out furiously with Johnny. You walk away still alive tonight. However, as you lose your virginity that night to your new boyfriend. You look up just in time to see the news that the killer escaped. Just then you watch Johnny be filleted before the killer guts you as well. You lose but at least you aren't a virgin.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 28,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Single and Still Alive",
+      "text": "Johnny gives up but you alive",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You ignore Johnny and turn your attention to the slasher. You shoot him in the head. You know killer's always come back. Johnny turns around and begin to make out with Zara, the dramatic geek. You are alive but still single.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 29,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Chet's hot",
+      "text": "Chet wants to make out",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You decide on Chet. You run away from the others and into the locker room. Chet proceeds to take off his shirt for some reason. He has abs and says he sweaty. He asks you if you want to make out with him. Do you make out with him?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 38,
+        "utterances": [
+          "Yes"
+        ]
+      },
+      {
+        "sceneId": 39,
+        "utterances": [
+          "No"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Drama Show",
+      "text": "Zara puts on a show",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You trust Zara. You grab Zara and run down the hallway. You enter the theater room. Walking on stage, a spotlight is flashed in your face. Zara looks around nervously. A voice comes on, he says he is the killer but he has a partner. That partner is Zara. Zara says she didn't do it. Do you trust Zara still or do you run?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 36,
+        "utterances": [
+          "Trust Zara"
+        ]
+      },
+      {
+        "sceneId": 37,
+        "utterances": [
+          "Run"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Remember that time?",
+      "text": "Michael is innocent but his boyfriend isn't.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You trust Michael for some reason. You grab him by the arm and run down the hallway. You leave everyone for dead. You try to catch your breath. Michael keeps bringing up fifth grade all of a sudden. You remember it suddenly. You spilled your lunch all over him. Everyone laughed at him. He asks if you remember it. Do you lie to him? Or do you say you remember?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 34,
+        "utterances": [
+          "Lie"
+        ]
+      },
+      {
+        "sceneId": 35,
+        "utterances": [
+          "Tell the Truth"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Everyone dies",
+      "text": "Blood loss is a bitch",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You trust Alicia. You two run towards the pool. However, Alicia falls over from blood loss. You try to hold her wound close but within minutes, she dies. Grief stricken, you run back to the auditorium to see Johnny and Zara dead as well. You look around just in time to see an axe split your skull in two.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 33,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Johnny is Johnny",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You trust Johnny. The two of you run out the school and towards the woods. You stop to catch your breath. At the same time, a bullet whizs by your head. Johnny kisses you. He says someone needs to stop him. He offers you the dagger. Do you go back inside and confront the killer? Or do you stay here and let Johnny go?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 42,
+        "utterances": [
+          "Confront the killer"
+        ]
+      },
+      {
+        "sceneId": 43,
+        "utterances": [
+          "Let Johnny confront the killer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Nope, didn't happen",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You decide to lie. You don't remember anything about. He smirks. He now has the pleasure to let you know he has been killing people. He pulls out a gun and shoots you dead.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 35,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Okay, I'm sorry",
+      "text": "Deader than a sorry nun",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You tell Michael the truth. You apologize for embarrassing him. You guys make up and hug. You feel the love. However, you also feel a dagger entering your throat. You die choking on the venom of Michael's betrayal.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 36,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "You trust Zara and she loves you for it",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You trust Zara and stand your ground. Zara and you stand off against the killer who emerges on stage. The three of you fight. Zara and you overpower the killer and Zara uses her axe and murders the hell out of the killer. Zara then looks at you and kisses you passionately. She asks you to be her girlfriend. You live.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 37,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "RUN!",
+      "text": "You ran! Ran into the other killer.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You decide Zara is the killer. You run off stage. Zara screams at you the distance before she is brutally murdered. You are happy that you might live. However, you forgot about the killer's partner. You take a nice healthy dagger to the heart for that. You die a coward",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 38,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Jealousy is a Bitch",
+      "text": "Kissed by the green monster",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You make out with Chet. You make out with Chet. In the middle of running away from everyone. He even convinces you to take off your shirt. You think you and Chet might go all the way. However, before you can do, a dagger goes through your back and hit your heart. A jealous lover holds the knife. You died because you are a slut.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 39,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Don't trust the gay jock",
+      "text": "You trusted a dumb jock, what do you expect",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You refuse to make out with Chet. Angry, he proceeds to tell that he is the killer. Infact, he had a partner. A partner whom makes out with him all the time. At that time, Johnny and Michael appear in the room. Michael is bleeding now from his stomach. He claims Johnny stabbed him. Johnny says Michael tried to kill shoot him. Who is the partner? Johnny or Michael?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 40,
+        "utterances": [
+          "Michael"
+        ]
+      },
+      {
+        "sceneId": 41,
+        "utterances": [
+          "Johnny"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "You sacrifice",
+      "text": "Johnny lives but you die.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You know in the bottom of your heart, Johnny couldn't be it. You see Michael try to wrestle the knife out of Johnny's hand. Johnny is about to win when you see Chet pull out a gun. His hand on the trigger and at Johnny. You jump in the way just in time and take the bullet. You watch Johnny take out both Chet and Michael before you close your eyes and die.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 41,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "You are an idiot",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You know Johnny is the killer. You leap at him and wrestle the dagger out of his hand. You proceed to stab him to death with it. You turn to see if Michael took out Chet. Instead, they finish kissing and Chet pulls out a gun and shoots you in the head.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 42,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Killed by the cops",
+      "text": "It was an accident",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You grab the bloody dagger and begin to march inside. Determined. You get to the door. Just as you see the killer's figure in the shadow, you let out a roar and are ready to attack. However, a cop sees you holding the dagger and not the killer. He decides to shoot you instead. You die an accidental suspect.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 43,
+    "color": "red",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Johnny dies and the killer gets away",
+      "text": "You enter a room.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Johnny marches inside. A gunshot is heard. A few smashes of glass. And pretty soon, it's all over. A body comes out on a gurney covered in a sheet. They say they got the killer. You lift the sheet and see. JOHNNY! They got the wrong guy. Before you can let out a horrified scream, the killer pulls you inside and stabs you to death.",
+      "prompt": ""
+    },
+    "options": []
+  }
+]

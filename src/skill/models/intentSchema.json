@@ -1,0 +1,151 @@
+{
+  "intents": [
+    {
+      "intent": "UnrecognizedIntent"
+    },
+    {
+      "intent": "ResetStateIntent"
+    },
+    {
+      "intent": "RestoreStateIntent"
+    },
+    {
+      "intent": "RepeatOptionsIntent"
+    },
+    {
+      "intent": "RepeatSceneIntent"
+    },
+    {
+      "intent": "GoBackIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "BeginIntent"
+    },
+    {
+      "intent": "BarbraIntent"
+    },
+    {
+      "intent": "ContinueIntent"
+    },
+    {
+      "intent": "CallCopsIntent"
+    },
+    {
+      "intent": "PutOutFireIntent"
+    },
+    {
+      "intent": "GoWithCopsIntent"
+    },
+    {
+      "intent": "StayHomeIntent"
+    },
+    {
+      "intent": "WalkToTheSchoolIntent"
+    },
+    {
+      "intent": "CallTowTruckAndWaitInCarIntent"
+    },
+    {
+      "intent": "StayInCarIntent"
+    },
+    {
+      "intent": "DemandToBeLetOutIntent"
+    },
+    {
+      "intent": "ZaraIntent"
+    },
+    {
+      "intent": "MichaelIntent"
+    },
+    {
+      "intent": "JohnnyIntent"
+    },
+    {
+      "intent": "StopTheBleedingIntent"
+    },
+    {
+      "intent": "HelpFightTheKillerIntent"
+    },
+    {
+      "intent": "ChetTheJockIntent"
+    },
+    {
+      "intent": "ZaraTheDramaGeekIntent"
+    },
+    {
+      "intent": "MichaelTheCheerleaderIntent"
+    },
+    {
+      "intent": "AliciaTheSchoolPresidentIntent"
+    },
+    {
+      "intent": "JohnnyTheTownieIntent"
+    },
+    {
+      "intent": "HumanShieldIntent"
+    },
+    {
+      "intent": "TellHerTheTruthIntent"
+    },
+    {
+      "intent": "PunchHerInTheFaceIntent"
+    },
+    {
+      "intent": "KillMichaelIntent"
+    },
+    {
+      "intent": "ThreatenTheKillerIntent"
+    },
+    {
+      "intent": "TrustJohnnyIntent"
+    },
+    {
+      "intent": "RunFromJohnnyIntent"
+    },
+    {
+      "intent": "GrabFlagIntent"
+    },
+    {
+      "intent": "HoldOntoHisCloakIntent"
+    },
+    {
+      "intent": "MakeOutWithJohnnyIntent"
+    },
+    {
+      "intent": "ShootKillerInTheHeadIntent"
+    },
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "TrustZaraIntent"
+    },
+    {
+      "intent": "RunIntent"
+    },
+    {
+      "intent": "LieIntent"
+    },
+    {
+      "intent": "TellTheTruthIntent"
+    },
+    {
+      "intent": "ConfrontTheKillerIntent"
+    },
+    {
+      "intent": "LetJohnnyConfrontTheKillerIntent"
+    }
+  ]
+}

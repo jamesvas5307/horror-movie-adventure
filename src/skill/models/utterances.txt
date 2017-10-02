@@ -1,0 +1,59 @@
+UnrecognizedIntent ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+ResetStateIntent reset skill
+ResetStateIntent start again
+ResetStateIntent reset
+RestoreStateIntent resume skill
+RestoreStateIntent resume
+RepeatOptionsIntent repeat options
+RepeatSceneIntent repeat scene
+RepeatSceneIntent repeat
+GoBackIntent go back
+AMAZON.HelpIntent help
+AMAZON.StopIntent exit skill
+AMAZON.CancelIntent exit skill
+BeginIntent begin
+BarbraIntent Barbra
+ContinueIntent Continue
+CallCopsIntent Call Cops
+PutOutFireIntent Put out fire
+GoWithCopsIntent Go with cops
+StayHomeIntent Stay home
+WalkToTheSchoolIntent Walk to the School
+CallTowTruckAndWaitInCarIntent Call tow truck and wait in car
+StayInCarIntent Stay in Car
+DemandToBeLetOutIntent Demand to Be Let Out
+ZaraIntent Zara
+MichaelIntent Michael
+JohnnyIntent Johnny
+StopTheBleedingIntent Stop the bleeding
+HelpFightTheKillerIntent Help fight the killer
+ChetTheJockIntent Chet the Jock
+ZaraTheDramaGeekIntent Zara the Drama Geek
+MichaelTheCheerleaderIntent Michael the Cheerleader
+AliciaTheSchoolPresidentIntent Alicia the School President
+JohnnyTheTownieIntent Johnny the Townie
+HumanShieldIntent Human Shield
+TellHerTheTruthIntent Tell her the truth
+PunchHerInTheFaceIntent Punch Her in the Face
+KillMichaelIntent Kill Michael
+ThreatenTheKillerIntent Threaten the Killer
+TrustJohnnyIntent Trust Johnny
+RunFromJohnnyIntent Run from Johnny
+GrabFlagIntent Grab flag
+HoldOntoHisCloakIntent Hold onto his cloak
+MakeOutWithJohnnyIntent Make Out With Johnny
+ShootKillerInTheHeadIntent Shoot Killer in the Head
+YesIntent Yes
+NoIntent No
+TrustZaraIntent Trust Zara
+RunIntent Run
+LieIntent Lie
+TellTheTruthIntent Tell the Truth
+ConfrontTheKillerIntent Confront the killer
+LetJohnnyConfrontTheKillerIntent Let Johnny confront the killer
+MichaelIntent Michael
+JohnnyIntent Johnny
